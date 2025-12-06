@@ -1,0 +1,385 @@
+CATEGORIA,PRODUCTOS
+ABRAZADERAS,Abrazadera INOX simple 22
+ABRAZADERAS,Abrazadera INOX simple 18
+ABRAZADERAS,Abrazadera INOX simple 15
+ABRAZADERAS,Abrazadera INOX simple 12
+ABRAZADERAS,Abrazadera INOX doble 22
+ABRAZADERAS,Abrazadera INOX doble 18
+ABRAZADERAS,Abrazadera INOX doble 15
+ABRAZADERAS,Abrazadera INOX doble 12
+ABRAZADERAS,Abrazadera plástico simple 20
+ABRAZADERAS,Abrazadera plástico simple 16
+ABRAZADERAS,Abrazadera plástico doble 20
+ABRAZADERAS,Abrazadera plástico doble 16
+ABRAZADERAS,Abrazadera plástico Cierre 20
+ABRAZADERAS,Abrazadera plástico Cierre 25
+ABRAZADERAS,Abrazadera plástico Cierre 32
+ABRAZADERAS,Abrazadera plástico Cierre 40
+COBRE,Curva cobre  90° Ma-He 12           
+COBRE,Curva cobre  90° Ma-He 15          
+COBRE,Curva cobre  90° Ma-He 18          
+COBRE,Curva cobre  90°  Ma-He 22           
+COBRE,Curva cobre  90°  Ma-He 28           
+COBRE,Curva cobre  90° He-He 12           
+COBRE,Curva cobre  90° He-He 15           
+COBRE,Curva cobre  90° He-He 18           
+COBRE,Curva cobre  90° He-He 22           
+COBRE,Curva cobre  90° He-He 28           
+COBRE,Curva cobre  45° Ma-He 12           
+COBRE,Curva cobre  45° Ma-He 15          
+COBRE,Curva cobre  45° Ma-He 18           
+COBRE,Curva cobre  45° Ma-He 22           
+COBRE,Curva cobre  45° Ma-He 28           
+COBRE,Curva cobre  45°  He-He 12           
+COBRE,Curva cobre  45°  He-He 15           
+COBRE,Curva cobre  45°  He-He 18           
+COBRE,Curva cobre  45°  He-He  22           
+COBRE,Curva cobre  45°   He-He 28           
+COBRE,Codo Racor loco soldar 12-1/2
+COBRE,Codo Racor Loco Soldar 15-1/2
+COBRE,Codo Racor LOCO SOLDAR 15-3/4
+COBRE,Codo Racor loco soldar 18-1/2
+COBRE,Codo racor Loco soldar 18-3/4
+COBRE,Codo Racor loco soldar 22-3/4
+COBRE,Codo Racor loco soldar 22-1”
+COBRE,Codo Racor LOCO SOLDAR 28-3/4
+COBRE,Codo Racor LOCO SOLDAR 28-1”
+COBRE,Racor loco soldar  12- 1/2                                 
+COBRE,Racor loco soldar  15- 1/2                                 
+COBRE,Racor loco soldar  15- 3/4                                 
+COBRE,Racor loco soldar   18- 1/2                                 
+COBRE,Racor loco soldar  18- 3/4                                
+COBRE,Racor loco soldar  22- 3/4                                
+COBRE,Racor loco soldar  22-1”                                
+COBRE,Racor loco soldar  28- 3/4                                 
+COBRE,Racor loco soldar   28-1”                             
+COBRE,Manguito cobre soldar 12
+COBRE,Manguito cobre soldar 15
+COBRE,Manguito cobre soldar  18
+COBRE,Manguito cobre soldar  22
+COBRE,Manguito cobre soldar  28
+COBRE,Tapón hembra cobre  12
+COBRE,Tapón hembra cobre  15
+COBRE,Tapón hembra cobre   18
+COBRE,Tapón hembra cobre   22
+COBRE,Tapón hembra cobre   28
+COBRE, Te mixta soldar  15-1/2-15
+COBRE, Te mixta soldar  18-1/2-18
+COBRE, Te mixta soldar  22-3/4-22
+COBRE,Te igual cobre  12
+COBRE,Te igual cobre  15
+COBRE,Te igual cobre  18
+COBRE,Te igual cobre  22
+COBRE,Te igual cobre   28
+COBRE,Tes reducidas  He cobre   15-12-12
+COBRE,Tes reducidas  He cobre   15-15-12
+COBRE,Tes reducidas  He cobre   18-12-12
+COBRE,Tes reducidas  He cobre   18-12-18
+COBRE,Tes reducidas  He cobre   18-15-12
+COBRE,Tes reducidas  He cobre   18-15-15
+COBRE,Tes reducidas  He cobre   18-15-18
+COBRE,Tes reducidas  He cobre   18-18-15
+COBRE,Tes reducidas  He cobre   22-12-22
+COBRE,Tes reducidas  He cobre   22-15-22
+COBRE,Tes reducidas  He cobre   22-18-15
+COBRE,Tes reducidas  He cobre   22-18-22
+COBRE,Tes reducidas  He cobre   22-18-18
+COBRE,Tes reducidas  He cobre   22-22-15
+COBRE,Tes reducidas  He cobre   22-22-18
+COBRE,Tes reducidas  He cobre   22-28-22
+COBRE,Tes reducidas  He cobre   28-15-15
+COBRE,Tes reducidas  He cobre   28-15-28
+COBRE,Tes reducidas  He cobre   28-22-22
+COBRE,Tes reducidas  He cobre   28-22-28
+COBRE,Tes reducidas  He cobre   28-28-22
+COBRE,Codo  latón soldar Hembra  15-1/2
+COBRE,Codo  latón soldar Hembra  18-1/2
+COBRE,Codo  latón soldar Hembra  22-3/4
+COBRE,Codo latón soldar placa  15-1/2
+COBRE,Codo latón soldar placa  18-1/2
+COBRE,Codo latón soldar placa  22-3/4
+COBRE,Entronque soldar macho  12-3/8
+COBRE,Entronque soldar macho  12-1/2
+COBRE,Entronque soldar macho  15-3/8
+COBRE,Entronque soldar macho  15-1/2
+COBRE,Entronque soldar macho  18-1/2
+COBRE,Entronque soldar macho  18-3/4
+COBRE,Entronque soldar macho  22-3/4
+COBRE,Entronque soldar macho  22-1”
+COBRE,Entronque soldar macho  28-1”
+COBRE,Entronque soldar Hembra  12-3/8
+COBRE,Entronque soldar Hembra  12-1/2
+COBRE,Entronque soldar Hembra  15-3/8
+COBRE,Entronque soldar Hembra  15-1/2
+COBRE,Entronque soldar Hembra  18-1/2
+COBRE,Entronque soldar Hembra  18-3/4
+COBRE,Entronque soldar Hembra   22-3/4
+COBRE,Entronque soldar Hembra   22-1”
+COBRE,Entronque soldar Hembra   28-1”
+COBRE,Metros Tubo de cobre 28
+COBRE,Metros Tubo de cobre 22
+COBRE,Metros Tubo de cobre 18
+COBRE,Metros Tubo de cobre 15
+COBRE,Metros Tubo de cobre 12
+DESAGÜES PVC,Tubo de plástico PVC 110
+DESAGÜES PVC,Tubo de plástico PVC  90
+DESAGÜES PVC,Tubo de plástico PVC  75
+DESAGÜES PVC,Tubo de plástico PVC  50
+DESAGÜES PVC,Tubo de plástico PVC  40
+DESAGÜES PVC,Tubo de plástico PVC  32
+DESAGÜES PVC,Hidrotubo flexible  PVC  50
+DESAGÜES PVC,Hidrotubo flexible  PVC  40
+DESAGÜES PVC,Hidrotubo flexible  PVC  32
+DESAGÜES PVC,Hidrotubo flexible  PVC  25
+DESAGÜES PVC,Codo plástico PVC  He -He  90°   50
+DESAGÜES PVC,Codo plástico PVC  He -He  90°   40
+DESAGÜES PVC,Codo plástico PVC  He -He  90°   32
+DESAGÜES PVC,Codo plástico PVC  Ma - He 90° 110
+DESAGÜES PVC,Codo plástico PVC  Ma - He 90°   90
+DESAGÜES PVC,Codo plástico PVC  Ma - He 90°   75
+DESAGÜES PVC,Codo plástico PVC  Ma - He 90°   50
+DESAGÜES PVC,Codo plástico PVC  Ma – He 90°  40
+DESAGÜES PVC,Codo plástico PVC  Ma - He  90°  32
+DESAGÜES PVC,Codo plástico PVC  He -He  45°    50
+DESAGÜES PVC,Codo plástico PVC  He -He  45°    40
+DESAGÜES PVC,Codo plástico PVC  He -He  45°    32
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°  110
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°    90
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°    75
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°    50
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°    40
+DESAGÜES PVC,Codo plástico PVC  Ma -He  45°    32
+DESAGÜES PVC,Te plástico PVC    32                                                 
+DESAGÜES PVC,Te plástico PVC    40                                                 
+DESAGÜES PVC,Te plástico PVC    50                                                 
+DESAGÜES PVC,Te plástico PVC    75                                                 
+DESAGÜES PVC,Te plástico PVC    90                                                 
+DESAGÜES PVC,Te plástico PVC  110                                                 
+DESAGÜES PVC,Te plástico PVC  125                                                 
+DESAGÜES PVC,Te y griega a 45°   32
+DESAGÜES PVC,Te y griega a 45°   40
+DESAGÜES PVC,Te y griega a 45°   50
+DESAGÜES PVC,Te y griega a 45°   75
+DESAGÜES PVC,Te y griega a 45°   90
+DESAGÜES PVC,Te y griega a 45°  110
+DESAGÜES PVC,Te y griega a 45°  125
+DESAGÜES PVC,Manguito PVC 32
+DESAGÜES PVC,Manguito PVC  40
+DESAGÜES PVC,Manguito  PVC 50
+DESAGÜES PVC,Manguito PVC  75
+DESAGÜES PVC,Manguito PVC   90
+DESAGÜES PVC,Manguito PVC 110 
+DESAGÜES PVC,Manguito PVC 125
+DESAGÜES PVC,Injerto exterior 110 a 32 
+DESAGÜES PVC,Injerto exterior 110 a 40 
+DESAGÜES PVC,Injerto exterior 110 a 50 
+DESAGÜES PVC,Injerto interior  110 a 32 
+DESAGÜES PVC,Injerto interior  110 a 40
+DESAGÜES PVC,Injerto interior  110 a 50
+DESAGÜES PVC,Casquillo reducido PVC  50 a 40
+DESAGÜES PVC,Casquillo reducido PVC  40 a 32
+DESAGÜES PVC,Tapa reducida PVC   110-50-40
+DESAGÜES PVC,Tapa reducida PVC   110-40-40
+DESAGÜES PVC,Tapa reducida PVC    90-50
+DESAGÜES PVC,Tapa reducida PVC    90-40
+DESAGÜES PVC,Tapa reducida PVC    75-50
+DESAGÜES PVC,Tapa reducida PVC    75-40
+DESAGÜES PVC,Reducción PVC    110-90
+DESAGÜES PVC,Reducción PVC    90-75
+LATIGUILLOS,Latiguillo He-He ⅜
+LATIGUILLOS,Latiguillo He-He 1/2
+LATIGUILLOS,Latiguillo He-He 1/2-3/8
+LATIGUILLOS,Latiguillo Ma-He ⅜
+LATIGUILLOS,Latiguillo Ma-He ½
+LATIGUILLOS,Regulador de gas
+LATIGUILLOS,Goma de gas
+LATIGUILLOS,Llave de paso gas 12
+LATIGUILLOS,Tetina de gas soldar 12
+LATIGUILLOS,Abrazaderas de gas 16-18 
+MULTICAPA,Tubo 25 multicapa
+MULTICAPA,Tubo 20 multicapa
+MULTICAPA,Tubo 16 multicapa
+MULTICAPA,Codo de 20  multicapa
+MULTICAPA,Codo de 16 multicapa
+MULTICAPA,Codo He  20 – ½ multicapa
+MULTICAPA,Codo He  16 – ½ multicapa
+MULTICAPA,Codo Ma 16 – ½ multicapa
+MULTICAPA,Codo Placa  20 – ½ multicapa
+MULTICAPA,Codo Placa  16 – ½ multicapa
+MULTICAPA,Te de 16 multicapa
+MULTICAPA,Te de 20 multicapa
+MULTICAPA,Te mixta 20 – ½ -20 multicapa
+MULTICAPA,Te mixta 16 – ½ -16 multicapa
+MULTICAPA,Te reducida 20-20-16 multicapa
+MULTICAPA,Te reducida 20-16-20 multicapa
+MULTICAPA,Te reducida 20-16-16 multicapa
+MULTICAPA,Manguito de 20 multicapa
+MULTICAPA,Manguito de 16 multicapa
+MULTICAPA,Manguito de 20-16 multicapa
+MULTICAPA,Entronque He 16-1/2 multicapa
+MULTICAPA,Entronque Ma 16-1/2 multicapa
+MULTICAPA,Entronque He 20 – ¾ multicapa
+MULTICAPA,Entronque He 20 – ½ multicapa
+MULTICAPA,Entronque Ma 20 – ¾ multicapa
+MULTICAPA,Entronque Ma 20 – ½ multicapa
+MULTICAPA,Recor Loco 20 – ¾ multicapa
+MULTICAPA,Recor Loco 20 – ½ multicapa
+MULTICAPA,Recor Loco 16 – ½ multicapa
+MULTICAPA,Tubo 16 multicapa aislado forro
+MULTICAPA,Tubo 20 multicapa aislado forro
+MULTICAPA,Entronque He 25- ½ P.P.R
+MULTICAPA,Entronque He 20- ½ P.P.R
+PEZAS DE LATON,Machón  de ½ 
+PEZAS DE LATON,Machón  de ¾
+PEZAS DE LATON,Machón  de 1”
+PEZAS DE LATON,Machón de ⅜
+PEZAS DE LATON,Machón reducido de ½ – ⅜
+PEZAS DE LATON,Machón reducido de ¾ – ½
+PEZAS DE LATON,Machón reducido de 1” – ¾
+PEZAS DE LATON,Tuerca reducida de ½ – ⅜
+PEZAS DE LATON,Tuerca reducida de 3/4 – ½
+PEZAS DE LATON,Tuerca reducida de 1” – ¾
+PEZAS DE LATON,Racor Marsella de ½ – ⅜
+PEZAS DE LATON,Racor Marsella de ¾ – ½
+PEZAS DE LATON,Racor Marsella de 1” – 3/4
+PEZAS DE LATON,Alargadera de ½
+PEZAS DE LATON,Codo de latón de ½
+PEZAS DE LATON,Codo de latón de ¾
+PEZAS DE LATON,Codo de latón de 1”
+PEZAS DE LATON,Codo de latón Ma-He de ½
+PEZAS DE LATON,Codo de latón Ma-He de ¾
+PEZAS DE LATON,Codo de latón Ma-He de 1”
+PEZAS DE LATON,Te de latón de ½
+PEZAS DE LATON,Te de latón de ¾
+PEZAS DE LATON,Te de latón de 1”
+PEZAS DE LATON,Tapón de 1/2
+POLITILENO,Codo de PE 20
+POLITILENO,Codo de PE 25
+POLITILENO,Codo de PE 32
+POLITILENO,Codo Ma PE 20 – ½
+POLITILENO,Codo Ma PE 25 ¾
+POLITILENO,Codo Ma PE 32 1”
+POLITILENO,Codo He PE 20 – ½
+POLITILENO,Codo He PE 25 ¾
+POLITILENO,Codo He PE 32 – 1”
+POLITILENO,Codo PE Placa de 20- ½
+POLITILENO,Codo PE Placa de 25-3/4
+POLITILENO,Codo Placa Deca de 20-1/2
+POLITILENO,Codo Placa Deca de 25-3/4
+POLITILENO,Manguito de PE de 20
+POLITILENO,Manguito de PE de 25
+POLITILENO,Manguito de PE de 32
+POLITILENO,Manguito reducido PE de 25-20
+POLITILENO,Manguito reducido PE de 32-25
+POLITILENO,Entronque Ma PE 20-1/2
+POLITILENO,Entronque Ma PE 25-3/4
+POLITILENO,Entronque Ma PE 32-1”
+POLITILENO,Entronque He PE 20-1/2
+POLITILENO,Entronque He PE 25-3/4
+POLITILENO,Entronque He PE 32-1”
+POLITILENO,Entronque Ma Deca 20-1/2
+POLITILENO,Entronque Ma Deca 25-3/4
+POLITILENO,Entronque Ma Deca 32-1”
+POLITILENO,Entronque He Deca 20-1/2
+POLITILENO,Entronque He Deca 25-3/4
+POLITILENO,Entronque He Deca 32-1”
+POLITILENO,Te de PE de 20
+POLITILENO,Te de PE de 25
+POLITILENO,Tes de PE de 32
+POLITILENO,Te mixta de PE de 20-1/2-20
+POLITILENO,Te mixta de PE de 25-3/4-25
+POLITILENO,Te mixta de PE de 32-1”-32
+POLITILENO,Te reducida PE de 25-20-25
+POLITILENO,Te reducida PE de 25-20-20
+POLITILENO,Te reducida PE de 32-25-32
+POLITILENO,Te reducida PE de 32-25-25
+POLITILENO,Chave de paso PE de 20
+POLITILENO,Chave de paso PE de 25
+POLITILENO,Chave de paso PE de 32
+POLITILENO,Tubo de PE de 20 10 ATM
+POLITILENO,Tubo de PE de 25 10 ATM
+POLITILENO,Tubo de PE de 32 10 ATM
+POLITILENO,Llave de paso P.E 20 Jimten
+POLITILENO,Llave de paso P.E 25 Jimten
+POLITILENO,Llave de paso P.E 32 Jimten
+PPR,Tubo de 32  PPR enfibrado
+PPR,Tubo de 25  PPR enfibrado
+PPR,Tubo de 20  PPR enfibrado
+PPR,Codo de 32 – 90° PPR
+PPR,Codo de 25 – 90° PPR
+PPR,Codo de 20 – 90° PPR
+PPR,Codo de 32 – 45° PPR
+PPR,Codo de 25 – 45° PPR
+PPR,Codo de 20 – 45° PPR
+PPR,Codo 25 hembra ¾  PPR
+PPR,Codo 25 hembra ½  PPR
+PPR,Codo 20 hembra ½  PPR
+PPR,Te mixta 25- ¾ -25  PPR
+PPR,Te mixta 25- ½ -25  PPR
+PPR,Te mixta 20- ½ -20  PPR
+PPR,Te de 32  PPR
+PPR,Te de 25  PPR
+PPR,Te de 20  PPR
+PPR,Te reducida PPR de 32-32-25
+PPR,Te reducida PPR de 32-25-32
+PPR,Te reducida PPR de 32-25-25
+PPR,Te reducida PPR de 25-25-20
+PPR,Te reducida PPR de 25-20-25
+PPR,Te reducida PPR de 25-20-20
+PPR,Manguito 32 PPR 
+PPR,Manguito 25 PPR 
+PPR,Manguito 20 PPR 
+PPR,Reducción PPR 32-25
+PPR,Reducción PPR 25-20
+PPR,Salvatubos de 32 PPR
+PPR,Salvatubos de 25 PPR
+PPR,Salvatubos de 20 PPR
+PPR,Entronque Ma 32-1” P.P.R
+PPR,Entronque Ma 32- ¾ P.P.R
+PPR,Entronque Ma 25- ¾ P.P.R
+PPR,Entronque Ma 25- ½ P.P.R
+PPR,Entronque Ma 20- ½ P.P.R
+PPR,Entronque He 32-1” P.P.R
+PPR,Entronque He 32- ¾ P.P.R
+PPR,Entronque He 25- ¾ P.P.R
+PPR,Entronque He 25- ½ P.P.R
+PPR,Entronque He 20- ½ P.P.R
+PPR,Llave paso empotrar 32 P.P.R
+PPR,Llave paso empotrar 25 P.P.R
+PPR,Codo Placa de 20- ½ P.P.R
+PPR,Codo Placa de 25- ½ P.P.R
+PPR,Llave  paso empotrar 20 P.P.R
+PPR,Tapón cego de P.P.R  25
+PPR,Tapón cego de P.P.R  20
+PPR,Racor loco PPR 20-1/2
+PPR,Racor loco PPR 25-3/4
+SIFONES,Sifón simple curvo 1-1/2
+SIFONES,Sifón simple curvo 1-1/4
+SIFONES,Sifón simple de botella 1-1/2 S/V
+SIFONES,Sifón simple de botella 1-1/2 C/V
+SIFONES,Sifón simple de botella 1-1/4 S/V
+SIFONES,Sifón flexible 1 – ¼
+VALVULERIA,Llave de paso p/inox de ½
+VALVULERIA,Llave de paso p/inox de 3/4
+VALVULERIA,Llave de paso p/inox de 1”
+VALVULERIA,Grifo jardín de ½
+VALVULERIA,Grifo jardín de 3/4
+VALVULERIA,Válvula retención de ½
+VALVULERIA,Válvula retención de ¾
+VALVULERIA,Válvula retención de 1”
+VALVULERIA,Válvula retención Clapeta de ½
+VALVULERIA,Válvula retención Clapeta de ¾
+VALVULERIA,Válvula retención Clapeta de1”
+VALVULERIA,Llave escuadra Mixta LAV-FRE
+VALVULERIA,Llave escuadra ½ – ⅜
+VALVULERIA,Llave lavadora
+VALVULERIA,Hidrosfera Motor
+VALVULERIA,Hidrosfera SIN mantenimiento
+VALVULERIA,Hidrosfera INOX
+VALVULERIA,Presostato 
+VALVULERIA,Manómetro presión vertical
+VALVULERIA,Manómetro presión horizontal
+VALVULERIA,Llave escuadra ½ – ½
+VALVULERIA,Llave mini ⅜
+VALVULERIA,Llave mini ½
+VALVULERIA,Valvula seguridad 3 Kg
