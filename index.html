@@ -279,12 +279,7 @@
             background: #27ae60;
             color: white;
         }
-        
-        .pdf-btn {
-            background: #e74c3c; 
-            color: white;
-        }
-
+    
         .sent-btn.marked {
             background: #7f8c8d; 
         }
@@ -955,16 +950,6 @@
         // ======================================================================
         // GENERAR PDF
         // ======================================================================
-
-        function generatePDF(orderId) {
-            const order = orders.find(o => o.id === orderId);
-            if (!order) return;
-            
-            if (Object.keys(order.products).length === 0) {
-                showToast('No hay productos para generar PDF', 'error');
-                return;
-            }
-
             const originalElement = document.getElementById(`order-${orderId}`);
             const element = originalElement.cloneNode(true);
             
