@@ -6,12 +6,6 @@
     <link rel="manifest" href="./manifest.json">
 <meta name="theme-color" content="#3498db">
 <meta name="apple-mobile-web-app-capable" content="yes">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" 
-            integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" 
-            crossorigin="anonymous" 
-            referrerpolicy="no-referrer">
-    </script>
-
     <style>
         * {
             margin: 0;
@@ -793,9 +787,6 @@
                         <button class="copy-btn" onclick="copySummary(${order.id})">
                             COPIAR NOTA
                         </button>
-                        <button class="pdf-btn" onclick="generatePDF(${order.id})">
-                            GENERAR PDF
-                        </button>
                         <button class="${sentButtonClass}" onclick="markAsSent(${order.id})">
                             ${sentButtonText}
                         </button>
@@ -895,21 +886,20 @@
         // RESUMEN Y ACCIONES
         // ======================================================================
 
-        function generateSummary(order) {
+       function generateSummary(order) {
             let summary = `NOTA\n`; 
-            summary += `═══════════════════════════\n\n`;
+            summary += `═══════════════\n\n`; // Línea más corta
             summary += `Cliente: ${order.client || '(sin especificar)'}\n`;
             summary += `Lugar: ${order.place || '(sin especificar)'}\n`;
             summary += `Fecha: ${order.date}\n\n`;
             
             const productsList = Object.entries(order.products);
-            let totalUnits = 0;
             
             if (productsList.length === 0) {
                 summary += `(No hay productos agregados)\n`;
             } else {
                 summary += `PRODUCTOS:\n`;
-                summary += `═══════════════════════════\n`;
+                summary += `═══════════════\n`; // Línea más corta
                 
                 Object.keys(catalog).forEach(category => {
                     const categoryProducts = productsList.filter(([product]) => 
@@ -920,13 +910,13 @@
                         summary += `\n${category}:\n`;
                         categoryProducts.forEach(([product, qty]) => {
                             summary += `  • ${product} ---- ${qty}\n`;
-                            totalUnits += qty; 
+                            // Aquí eliminamos la suma de totalUnits
                         });
                     }
                 });
                 
-                summary += `\n═══════════════════════════\n`;
-                summary += `Total Unidades: ${totalUnits}`;
+                summary += `\n═══════════════\n`; // Línea final más corta
+                // Aquí eliminamos la línea que mostraba el Total Unidades
             }
             
             return summary;
